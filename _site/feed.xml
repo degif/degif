@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deGif</title>
+    <description>Gifs reverse engineered to code.</description>
+    <link>http://degif.github.io/</link>
+    <atom:link href="http://degif.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Alternating rotations</title>
+        <description>&lt;p&gt;via &lt;a href=&quot;https://dribbble.com/beesandbombs&quot;&gt;Dave Whyte&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; height=&quot;400&quot; src=&quot;//jsfiddle.net/p1g9gqto/embedded/result,js&quot; allowfullscreen=&quot;allowfullscreen&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sun, 17 Jan 2016 19:00:00 +0200</pubDate>
+        <link>http://degif.github.io/2016/01/17/alternatingrotations/</link>
+        <guid isPermaLink="true">http://degif.github.io/2016/01/17/alternatingrotations/</guid>
+      </item>
+    
+  </channel>
+</rss>
