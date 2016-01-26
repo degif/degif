@@ -3,9 +3,7 @@ title: deGif
 email: kods@piksel.is
 author: Rihards Gravis
 description: "Gifs reverse engineered to code."
-baseurl: ""
 url: "http://degif.github.io"
-google_analytics:
 
 # Gems
 gems: [jekyll-paginate]
