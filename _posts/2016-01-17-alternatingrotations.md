@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      Alternating rotations
-date:       2016-01-17 17:00:00
+date:       2016-01-17 17:00:00 +0200
 comments:   true
 ---
 
